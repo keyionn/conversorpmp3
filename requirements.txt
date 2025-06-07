@@ -1,0 +1,4 @@
+# Requirements 
+yt-dlp # Biblioteca principal para download
+ffmpeg-python # Controle do FFmpeg (conversão)
+
